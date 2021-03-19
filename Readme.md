@@ -1,5 +1,5 @@
 
-
+This is Zoomable Area Chart. To see the funcionality open index.html under the public directory
 Steps for initializing react based frontend with webpack and eslint
 ----------------------------------------------------------------------
     npm init -y
@@ -57,6 +57,8 @@ npx dev webpack
 (which will create bundle.js and place it under the public directory)
 
 Use live server to open index.html via vscode to view the index.html (or use any server to serve the static directory 'public')
+
+
 
 
 
